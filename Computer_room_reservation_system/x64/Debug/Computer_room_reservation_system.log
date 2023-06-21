@@ -1,0 +1,13 @@
+﻿  main.cpp
+  manager.cpp
+  orderFile.cpp
+C:\Users\yingz\Desktop\程序调试\C++小程序\Computer_room_reservation_system\orderFile.cpp(34,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\yingz\Desktop\程序调试\C++小程序\Computer_room_reservation_system\orderFile.cpp(42,22): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\yingz\Desktop\程序调试\C++小程序\Computer_room_reservation_system\orderFile.cpp(50,19): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\yingz\Desktop\程序调试\C++小程序\Computer_room_reservation_system\orderFile.cpp(58,21): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\yingz\Desktop\程序调试\C++小程序\Computer_room_reservation_system\orderFile.cpp(66,20): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\yingz\Desktop\程序调试\C++小程序\Computer_room_reservation_system\orderFile.cpp(74,20): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  student.cpp
+  teacher.cpp
+  正在生成代码...
+  Computer_room_reservation_system.vcxproj -> C:\Users\yingz\Desktop\程序调试\C++小程序\Computer_room_reservation_system\x64\Debug\Computer_room_reservation_system.exe
